@@ -1,0 +1,14 @@
+Documentation/*.aux
+Documentation/*.log
+Documentation/*.out
+Documentation/*.toc
+Firmware/build
+Firmware/doc
+PCB/*.kicad_prl
+PCB/*.xml
+PCB/*-backups
+PCB/*.bak
+PCB/fp-info-cache
+Software/doc
+Software/build
+__pycache__

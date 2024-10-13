@@ -1,0 +1,6 @@
+[submodule "Software/hidapi"]
+	path = Software/hidapi
+	url = https://github.com/libusb/hidapi
+[submodule "Firmware/pico-sdk"]
+	path = Firmware/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk

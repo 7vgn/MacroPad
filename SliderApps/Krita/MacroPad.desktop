@@ -1,0 +1,8 @@
+ [Desktop Entry]
+ Type=Service
+ ServiceTypes=Krita/PythonPlugin
+ X-KDE-Library=MacroPad
+ X-Python-2-Compatible=false
+ X-Krita-Manual=Manual.html
+ Name=MacroPad Plug-In
+ Commant=Allows changing Krita Settings via MacroPad's slider
