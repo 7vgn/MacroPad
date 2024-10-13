@@ -1,7 +1,7 @@
 # MacroPad
-![Title Image](Images/Title.jpg)
+![Title Image](Documentation/Images/Title.jpg)
 > [!NOTE]
-> This project is still under development. The main issue is that it has never been tested on Windows.
+> This project is still under development. While almost everything works on Linux, Windows is a mess.
 
 ## What is This?
 MacroPad is a USB input device with six keys, three rotary encoders, a slider,
@@ -21,7 +21,7 @@ using the RP2040 microcontroller.
 
 ## How Does It Work?
 When plugged into a computer, MacroPad presents itself as a three-in-one
-input device composed of a keaboard, a mouse, and a miscellaneous input device.
+input device composed of a keyboard, a mouse, and a miscellaneous input device.
 All keys and rotary encoders can be configured to send keyboard or mouse input
 to the computer.
 
